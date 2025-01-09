@@ -15,7 +15,7 @@ http.globalAgent.maxSockets = 1
 https.globalAgent.maxSockets = 1
 
 let baseURL = 'https://itch.io/games/'
-let scrapeURLS = ['made-with-godot', 'tag-godot']
+let scrapeURLS = ['made-with-godot', 'tag-godot', 'tag-open-source']
 
 let itemsPerPage = 36
 let maxPages
@@ -65,6 +65,7 @@ function scraper (url) {
 
             game.genre = $(elem).find('.game_cell_data .game_genre').text()
             game.genre = game.genre ? game.genre : null
+
 
             game.id = $(elem).attr('data-game_id')
             game.id = game.id ? game.id : null
@@ -199,8 +200,10 @@ function getAllGames () {
 
               let arr1 = readJSON('.tmp/' + scrapeURLS[0] + '.json')
               let arr2 = readJSON('.tmp/' + scrapeURLS[1] + '.json')
+              let arr3 = readJSON('.tmp/' + scrapeURLS[2] + '.json')
 
               arr1 = arr1.concat(arr2) // merge two arrays
+              arr1 = arr1.filter(item1 => arr3.some(item3 => item3.id === item1.id))
 
               let foo = new Map()
               for (const key of arr1) {
