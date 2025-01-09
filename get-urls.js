@@ -27,7 +27,7 @@ fs.readFile('all.json', 'utf8', async (err, data) => {
 
       // Extract all href attributes from <a> elements
       let game = {}
-      game.name = item.name
+      game.name = item.title
       game.link = link
       game.all_links = []
       $('a').each((index, element) => {

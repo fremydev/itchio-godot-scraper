@@ -1,13 +1,16 @@
 [
   {
+    "name": "Seven of Heart",
     "link": "https://jonasmv.itch.io/seven-of-heart",
     "all_links": []
   },
   {
+    "name": "grGRIDid",
     "link": "https://johngabrieluk.itch.io/grgridid",
     "all_links": []
   },
   {
+    "name": "There, Again",
     "link": "https://honey-pony.itch.io/there-again",
     "all_links": [
       "https://github.com/HoneyPony/there-again",
@@ -15,34 +18,41 @@
     ]
   },
   {
+    "name": "Tree Invaders",
     "link": "https://sosasees.itch.io/ggj-tree-invaders",
     "all_links": []
   },
   {
+    "name": "Car Go Vroom",
     "link": "https://gartersnake508.itch.io/car-go-vroom",
     "all_links": []
   },
   {
+    "name": "Dodge The Creeps Android",
     "link": "https://dobloy.itch.io/dodge-the-creeps",
     "all_links": []
   },
   {
+    "name": "Outrun Chase",
     "link": "https://sdslabs.itch.io/outrun-chase",
     "all_links": [
       "https://github.com/sdslabs/outrun-chase/tree/readme#links"
     ]
   },
   {
+    "name": "SIGNAL GENERATOR ETC",
     "link": "https://honey-pony.itch.io/signal-generator-etc",
     "all_links": [
       "https://github.com/HoneyPony/signal-generator-etc"
     ]
   },
   {
+    "name": "Evodevo II: Enhanced Edition",
     "link": "https://johngabrieluk.itch.io/evodevo-ii-enhanced-edition",
     "all_links": []
   },
   {
+    "name": "Little Spy",
     "link": "https://wimpress.itch.io/little-spy",
     "all_links": [
       "https://github.com/wimpysworld/little-spy",
@@ -50,14 +60,17 @@
     ]
   },
   {
+    "name": "Techmaniac",
     "link": "https://johngabrieluk.itch.io/techmaniac",
     "all_links": []
   },
   {
+    "name": "OpenGameDevTycoon",
     "link": "https://lavaduder.itch.io/opengamedevtycoon",
     "all_links": []
   },
   {
+    "name": "Enter_Password",
     "link": "https://larsingo.itch.io/enter-password",
     "all_links": [
       "https://github.com/Bjoren/Enter_Password",
@@ -65,12 +78,14 @@
     ]
   },
   {
+    "name": "Paparruchas",
     "link": "https://medioinestable.itch.io/paparruchas",
     "all_links": [
       "https://github.com/medioinestable"
     ]
   },
   {
+    "name": "Coin Toss",
     "link": "https://thealternatedoctor.itch.io/coin-toss",
     "all_links": [
       "https://github.com/TheAlternateDoctor/CoinToss",
@@ -78,74 +93,88 @@
     ]
   },
   {
+    "name": "Destroy the Planet",
     "link": "https://elektito.itch.io/destroy-the-planet",
     "all_links": [
       "https://github.com/elektito/destroy-the-planet"
     ]
   },
   {
+    "name": "Faint Frontiers",
     "link": "https://skydrifter.itch.io/faint-frontiers",
     "all_links": [
       "https://github.com/TP19/Faint-Frontiers"
     ]
   },
   {
+    "name": "Tiny Crate",
     "link": "https://hhoneysoftware.itch.io/tinycrate",
     "all_links": [
       "https://github.com/HarmonyHoney/tiny_crate"
     ]
   },
   {
+    "name": "An Interactive Boids Simulation",
     "link": "https://stevetheninja.itch.io/godot-boids",
     "all_links": [
       "https://github.com/kyrick/godot-boids-acceleration-structure"
     ]
   },
   {
+    "name": "Midi Keyboard 3D model",
     "link": "https://b-render.itch.io/midi-keyboard",
     "all_links": []
   },
   {
+    "name": "Thrive",
     "link": "https://revolutionarygames.itch.io/thrive",
     "all_links": [
       "https://github.com/Revolutionary-Games/Thrive"
     ]
   },
   {
+    "name": "Should I Buy It ?",
     "link": "https://henriquecanella.itch.io/shouldibuyit",
     "all_links": []
   },
   {
+    "name": "Hypnagonia",
     "link": "https://dbzer0.itch.io/hypnagonia",
     "all_links": [
       "https://github.com/db0/hypnagonia"
     ]
   },
   {
+    "name": "Drowning City",
     "link": "https://officialduke99.itch.io/drowning-city",
     "all_links": []
   },
   {
+    "name": "Ultrabug",
     "link": "https://doomium-chloride.itch.io/ultrabug",
     "all_links": []
   },
   {
+    "name": "Wizard Chase",
     "link": "https://clarkjohn.itch.io/wizard",
     "all_links": [
       "https://github.com/clarkjohn/wizard-chase"
     ]
   },
   {
+    "name": "Penguin's Platforming Christmas Adventure",
     "link": "https://wojciech-graj.itch.io/penguin-platform",
     "all_links": [
       "https://github.com/wojciech-graj/penguin-platformer"
     ]
   },
   {
+    "name": "Battle of Bottles",
     "link": "https://battle-of-bottles.itch.io/battle-of-bottles",
     "all_links": []
   },
   {
+    "name": "Ping Blast",
     "link": "https://djalexkidd.itch.io/ping-blast",
     "all_links": [
       "https://itch.io/games/tag-github",
@@ -153,30 +182,36 @@
     ]
   },
   {
+    "name": "Asteroid Pop",
     "link": "https://treenook-games.itch.io/asteroid-pop",
     "all_links": []
   },
   {
+    "name": "Domino Sort",
     "link": "https://welson-staly.itch.io/domino-sort",
     "all_links": []
   },
   {
+    "name": "Gods Gambit",
     "link": "https://bitwise-aiden.itch.io/gods-gambit",
     "all_links": [
       "https://github.com/bitwise-aiden/gwj42"
     ]
   },
   {
+    "name": "Strange Winds",
     "link": "https://croomfolk.itch.io/strange-winds",
     "all_links": [
       "https://github.com/YuriNikolai/StrangeWinds"
     ]
   },
   {
+    "name": "Trainyard Trouble",
     "link": "https://bathearttiger.itch.io/trainyard-trouble",
     "all_links": []
   },
   {
+    "name": "A Little Game Called Mario",
     "link": "https://iznaut.itch.io/a-little-game-called-mario",
     "all_links": [
       "https://github.com/iznaut/a-little-game-called-mario",
@@ -185,12 +220,14 @@
     ]
   },
   {
+    "name": "A Halting Problem",
     "link": "https://honey-pony.itch.io/a-halting-problem",
     "all_links": [
       "https://github.com/HoneyPony/a-halting-problem"
     ]
   },
   {
+    "name": "Coldest Night",
     "link": "https://krobbizoid.itch.io/coldest-night",
     "all_links": [
       "https://github.com/krobbi/coldest-night",
@@ -198,16 +235,19 @@
     ]
   },
   {
+    "name": "Bash Ball",
     "link": "https://virael.itch.io/bashball",
     "all_links": [
       "https://github.com/viraelin/bashball"
     ]
   },
   {
+    "name": "Social Clicker",
     "link": "https://sdggames.itch.io/socialclicker",
     "all_links": []
   },
   {
+    "name": "Glassware",
     "link": "https://true-narwhak.itch.io/glassware",
     "all_links": [
       "https://github.com/TrueNarwhak/Glassware",
@@ -215,16 +255,19 @@
     ]
   },
   {
+    "name": "ROTA",
     "link": "https://hhoneysoftware.itch.io/rota",
     "all_links": [
       "https://github.com/HarmonyHoney/ROTA"
     ]
   },
   {
+    "name": "PixelPlace",
     "link": "https://toyot-games.itch.io/pixelplace",
     "all_links": []
   },
   {
+    "name": "Fragment Forge",
     "link": "https://dbzer0.itch.io/fragment-forge",
     "all_links": [
       "https://github.com/db0/Fragment-Forge/blob/main/SP_RULES.md",
@@ -232,6 +275,7 @@
     ]
   },
   {
+    "name": "gd_fpcc Demo",
     "link": "https://menacingmecha.itch.io/gd-fpcc-demo",
     "all_links": [
       "https://github.com/MenacingMecha/gd_fpcc",
@@ -242,10 +286,12 @@
     ]
   },
   {
+    "name": "Back Into the Cave",
     "link": "https://johngabrieluk.itch.io/back-into-the-cave",
     "all_links": []
   },
   {
+    "name": "Tabletop Club",
     "link": "https://drwhut.itch.io/tabletop-club",
     "all_links": [
       "https://github.com/drwhut/tabletop-club",
@@ -260,42 +306,50 @@
     ]
   },
   {
+    "name": "Brainjar's Proving Ground (Open Source)",
     "link": "https://thelastflapjack.itch.io/brainjars-proving-ground",
     "all_links": [
       "https://github.com/teddybear082/godot-3d-platformer-vr"
     ]
   },
   {
+    "name": "Syntrena_OS Alpha",
     "link": "https://nextstudios0968.itch.io/pixelos-gd",
     "all_links": [
       "https://github.com/PixelGamer6632/PixelOS-GD-Beta1"
     ]
   },
   {
+    "name": "All Colors in Control v1.1.2",
     "link": "https://linyangqi.itch.io/all-colors-in-control",
     "all_links": [
       "https://github.com/linyangqi/godot_game-all_colors_in_control"
     ]
   },
   {
+    "name": "Asterodots",
     "link": "https://nether.itch.io/asterodots",
     "all_links": []
   },
   {
+    "name": "Source of Mana",
     "link": "https://manasource.itch.io/source-of-mana",
     "all_links": []
   },
   {
+    "name": "Open Dungeon",
     "link": "https://thenonsense.itch.io/opendungeon",
     "all_links": []
   },
   {
+    "name": "Marble",
     "link": "https://mechanical-flower.itch.io/marble",
     "all_links": [
       "https://github.com/MechanicalFlower/Marble"
     ]
   },
   {
+    "name": "How To Rob A Gas Station 2",
     "link": "https://poto-software.itch.io/how-to-rob-a-gas-station-2",
     "all_links": [
       "https://github.com/POtOSoftware/HTRAGS-2",
@@ -303,6 +357,7 @@
     ]
   },
   {
+    "name": "SuperTux Classic",
     "link": "https://alzter-s.itch.io/supertux-classic",
     "all_links": [
       "https://github.com/Alzter/SuperTux-Classic/",
@@ -311,16 +366,19 @@
     ]
   },
   {
+    "name": "Open Target Shooter",
     "link": "https://thelastflapjack.itch.io/open-target-shooter",
     "all_links": [
       "https://github.com/thelastflapjack/godot_open_target_shooter"
     ]
   },
   {
+    "name": "RUNSTABLE",
     "link": "https://whiteshampoo.itch.io/runstable",
     "all_links": []
   },
   {
+    "name": "Project Aim",
     "link": "https://ahmadhayyan.itch.io/project-aim",
     "all_links": [
       "https://github.com/ahmadhayyan/project-aim",
@@ -329,42 +387,49 @@
     ]
   },
   {
+    "name": "Xau - DEMO",
     "link": "https://sadblockgames.itch.io/xau",
     "all_links": [
       "https://github.com/Lilith-In-Starlight/xau"
     ]
   },
   {
+    "name": "holoVersus (Test Build)",
     "link": "https://zortoise.itch.io/holoversus",
     "all_links": [
       "https://github.com/Zortoise/holoVersus"
     ]
   },
   {
+    "name": "SCREAM",
     "link": "https://mahda.itch.io/scream",
     "all_links": [
       "https://github.com/zyphersworld/scream"
     ]
   },
   {
+    "name": "Tumble Pumpkin",
     "link": "https://figytuna.itch.io/tumble-pumpkin",
     "all_links": [
       "https://github.com/FigyTuna/TumblePumpkin"
     ]
   },
   {
+    "name": "knakk",
     "link": "https://raffomania.itch.io/knakk",
     "all_links": [
       "https://github.com/raffomania/knakk"
     ]
   },
   {
+    "name": "backrooms",
     "link": "https://zodiepupper.itch.io/backrooms",
     "all_links": [
       "https://github.com/zodywoolsey/backrooms"
     ]
   },
   {
+    "name": "Starcatcher",
     "link": "https://escada-games.itch.io/starcatcher",
     "all_links": [
       "https://github.com/Escada-Games/starcatcher",
@@ -372,6 +437,7 @@
     ]
   },
   {
+    "name": "Monkeying Around",
     "link": "https://isacben.itch.io/monkeying-around",
     "all_links": [
       "https://github.com/isacben/monkeying-around",
@@ -379,6 +445,7 @@
     ]
   },
   {
+    "name": "The Adventures of the Heroic Fox",
     "link": "https://krasi0707.itch.io/the-adventures-of-the-heroic-fox",
     "all_links": [
       "https://github.com/krasi070/GameOff2022",
@@ -386,12 +453,14 @@
     ]
   },
   {
+    "name": "Turn Battle Prototype",
     "link": "https://izero.itch.io/turn-battle-prototype",
     "all_links": [
       "https://github.com/fernandovmp/turn-battle-prototype"
     ]
   },
   {
+    "name": "Sickle Dodge (Godot)",
     "link": "https://sugarvoid.itch.io/sickle-dodge",
     "all_links": [
       "https://github.com/sugarvoid/winter-break-jam#music-musical_keyboard",
@@ -399,18 +468,22 @@
     ]
   },
   {
+    "name": "Nitrovista v1.0.1 Beta",
     "link": "https://jreo.itch.io/nitrowovista",
     "all_links": []
   },
   {
+    "name": "Linux Elitist Game",
     "link": "https://sentry456123.itch.io/linux-elitist-game",
     "all_links": []
   },
   {
+    "name": "The Harvest Inspector",
     "link": "https://johngabrieluk.itch.io/the-harvest-inspector",
     "all_links": []
   },
   {
+    "name": "Cardwork Cycle",
     "link": "https://honey-pony.itch.io/cardwork-cycle",
     "all_links": [
       "https://github.com/HoneyPony/cardwork-cycle",
@@ -418,6 +491,7 @@
     ]
   },
   {
+    "name": "Hellhop",
     "link": "https://wyvernbw.itch.io/hellhop",
     "all_links": [
       "https://github.com/wyvernbw/hellhop",
@@ -425,34 +499,40 @@
     ]
   },
   {
+    "name": "Ciara and the Witch's Cauldron",
     "link": "https://subvertissement.itch.io/ciara-and-the-witchs-cauldron",
     "all_links": [
       "https://github.com/philoufc/gwj53"
     ]
   },
   {
+    "name": "coocoocoocoo",
     "link": "https://true-narwhak.itch.io/coocoocoocoo",
     "all_links": [
       "https://github.com/TrueNarwhak/coocoocoocoo"
     ]
   },
   {
+    "name": "Advanced Hunger Games Simulator",
     "link": "https://teacupcat.itch.io/advanced-hunger-games",
     "all_links": []
   },
   {
+    "name": "Rooted Shadow",
     "link": "https://mechanical-flower.itch.io/rooted-shadow",
     "all_links": [
       "https://github.com/MechanicalFlower/RootedShadow"
     ]
   },
   {
+    "name": "All Alone (Open Source)",
     "link": "https://thelastflapjack.itch.io/all-alone",
     "all_links": [
       "https://github.com/thelastflapjack/all_alone"
     ]
   },
   {
+    "name": "Mvania19: HatBot (Web)",
     "link": "https://russmatney.itch.io/mvania19-web",
     "all_links": [
       "https://github.com/itchio/itch.io/issues/1372",
@@ -460,16 +540,19 @@
     ]
   },
   {
+    "name": "TheGates",
     "link": "https://nordup.itch.io/the-gates",
     "all_links": [
       "https://github.com/thegatesbrowser"
     ]
   },
   {
+    "name": "BigJumpSmallJump",
     "link": "https://stardddude.itch.io/bigjumpsmalljump",
     "all_links": []
   },
   {
+    "name": "You TD 2",
     "link": "https://praytic.itch.io/youtd2",
     "all_links": [
       "https://github.com/Praytic/youtd2",
@@ -477,6 +560,7 @@
     ]
   },
   {
+    "name": "The-Lost-Jedi",
     "link": "https://arknoid.itch.io/the-lost-jedi",
     "all_links": [
       "https://github.com/Arknoid/The-lost-jedi",
@@ -485,22 +569,26 @@
     ]
   },
   {
+    "name": "Open Star Fighter",
     "link": "https://thelastflapjack.itch.io/open-star-fighter",
     "all_links": [
       "https://github.com/thelastflapjack/godot_open_star_fighter"
     ]
   },
   {
+    "name": "GreedySlime",
     "link": "https://dustdfg.itch.io/greedyslime",
     "all_links": []
   },
   {
+    "name": "Super Elevator Level",
     "link": "https://russmatney.itch.io/super-elevator-level",
     "all_links": [
       "https://github.com/russmatney/dino"
     ]
   },
   {
+    "name": "You wake up in a forest. It's raining.",
     "link": "https://krasi0707.itch.io/you-wake-up-in-a-forest-its-raining",
     "all_links": [
       "https://github.com/krasi070/Go-Godot-Jam-4",
@@ -508,14 +596,17 @@
     ]
   },
   {
+    "name": "Solitaire",
     "link": "https://rowiz49.itch.io/solitaire",
     "all_links": []
   },
   {
+    "name": "PlarcAI [Jam]",
     "link": "https://dustdfg.itch.io/plarcai-jam",
     "all_links": []
   },
   {
+    "name": "Wrap It Up",
     "link": "https://hhoneysoftware.itch.io/wrap-it-up",
     "all_links": [
       "https://github.com/HarmonyHoney/wrap_it_up",
@@ -523,24 +614,28 @@
     ]
   },
   {
+    "name": "ForkOff",
     "link": "https://eeveeusr1.itch.io/forkoff",
     "all_links": [
       "https://github.com/evusr1/ForkOff_LGJ2023"
     ]
   },
   {
+    "name": "Shirt",
     "link": "https://russmatney.itch.io/shirt",
     "all_links": [
       "https://github.com/russmatney/dino"
     ]
   },
   {
+    "name": "Amaya: Maiden of the Storm",
     "link": "https://johngabrieluk.itch.io/amaya-maiden-of-the-storm",
     "all_links": [
       "https://github.com/cassidyjames/amaya-maiden-of-the-storm"
     ]
   },
   {
+    "name": "Bloccer",
     "link": "https://derjungeinhd.itch.io/bloccer",
     "all_links": [
       "https://github.com/derjungeinhd/bloccer/",
@@ -556,12 +651,14 @@
     ]
   },
   {
+    "name": "Final Quest: A Godot Research",
     "link": "https://less96.itch.io/final-quest-godot",
     "all_links": [
       "https://github.com/AdrianTF/Proyecto-final"
     ]
   },
   {
+    "name": "Last Minute Slime Session",
     "link": "https://wamvg.itch.io/last-minute-slime-session",
     "all_links": [
       "https://github.com/BOBtheman2000/WaMVG-LastMinSlimeSesh",
@@ -569,6 +666,7 @@
     ]
   },
   {
+    "name": "Forst Forward",
     "link": "https://lunis-peace.itch.io/forst-forward",
     "all_links": [
       "https://github.com/TriffnixXIV/ForstForward",
@@ -576,34 +674,40 @@
     ]
   },
   {
+    "name": "Frame of Mind (preview)",
     "link": "https://purplesloth.itch.io/frame-of-mind",
     "all_links": []
   },
   {
+    "name": "Chromavescence",
     "link": "https://maybebarney.itch.io/chromavescence",
     "all_links": [
       "https://github.com/BOBtheman2000/Chromavescence"
     ]
   },
   {
+    "name": "Robbing Hood",
     "link": "https://crankypotatoes.itch.io/robbing-hood",
     "all_links": [
       "https://github.com/Mashedpotato98/OGA-SUMMER-JAM-1"
     ]
   },
   {
+    "name": "Freaky Towers",
     "link": "https://slava0135.itch.io/freaky-towers",
     "all_links": [
       "https://github.com/Slava0135/Freaky-Towers"
     ]
   },
   {
+    "name": "A New Home",
     "link": "https://wekufu-studios.itch.io/a-new-home",
     "all_links": [
       "https://github.com/WekufuStudios/A-new-home"
     ]
   },
   {
+    "name": "Tank Carnival",
     "link": "https://alexnottaben.itch.io/tank-carnival",
     "all_links": [
       "https://github.com/AlexNottaBen/Tank-Carnival",
@@ -611,18 +715,22 @@
     ]
   },
   {
+    "name": "Epok Bus Sim",
     "link": "https://hellory4n.itch.io/epok-bus-sim",
     "all_links": []
   },
   {
+    "name": "Ex Aeternum Redux",
     "link": "https://johngabrieluk.itch.io/ex-aeternum-redux",
     "all_links": []
   },
   {
+    "name": "Libre Memory Game",
     "link": "https://quentin-bettoum.itch.io/libre-memory-game",
     "all_links": []
   },
   {
+    "name": "Open Saber",
     "link": "https://leandrodreamer.itch.io/open-saber",
     "all_links": [
       "https://github.com/NeoSpark314/BeepSaber",
@@ -630,6 +738,7 @@
     ]
   },
   {
+    "name": "System77 prototype",
     "link": "https://raviolimavioli.itch.io/system77",
     "all_links": [
       "https://github.com/RavioliMavioli/system77-prototype",
@@ -637,6 +746,7 @@
     ]
   },
   {
+    "name": "Duel Defense",
     "link": "https://d10sfan.itch.io/duel-defense",
     "all_links": [
       "https://github.com/d10sfan/duel-defense",
@@ -644,18 +754,21 @@
     ]
   },
   {
+    "name": "Cosmic Cleaning Crew",
     "link": "https://crankycranton.itch.io/gbjam-11",
     "all_links": [
       "https://github.com/CrankyCranton/GBJam-11"
     ]
   },
   {
+    "name": "hypermanic hypermania",
     "link": "https://i-play-kindred.itch.io/hyperhyper-public",
     "all_links": [
       "https://github.com/bruvzg/gdsdecomp"
     ]
   },
   {
+    "name": "Bard's Lesson",
     "link": "https://pigdev.itch.io/bard-lesson",
     "all_links": [
       "http://github.com/pigdevstudio/bard-lesson",
@@ -671,6 +784,7 @@
     ]
   },
   {
+    "name": "Cursurvive",
     "link": "https://cxhuy.itch.io/cursurvive",
     "all_links": [
       "https://cxhuy.github.io/cursurvive_web/",
@@ -678,12 +792,14 @@
     ]
   },
   {
+    "name": "Godot FOV algorithms for roguelikes",
     "link": "https://aikoncwd.itch.io/godot-fov-algorithms-for-roguelikes",
     "all_links": [
       "https://github.com/aikoncwd/Godot-FOV-algorithms-roguelike"
     ]
   },
   {
+    "name": "MVP Godot RogueLike (Open Source)",
     "link": "https://phrenzik.itch.io/mvp-godot-rougelike",
     "all_links": [
       "https://github.com/john0shaw/rogue-like-playground",
@@ -691,12 +807,14 @@
     ]
   },
   {
+    "name": "Callsign: HANGMAN",
     "link": "https://johngabrieluk.itch.io/callsign-hangman",
     "all_links": [
       "https://github.com/JohnGabrielUK/CallsignHangman"
     ]
   },
   {
+    "name": "Kitchen of the damned",
     "link": "https://johnminer.itch.io/kitchen-of-the-damned",
     "all_links": [
       "https://github.com/lamnguyenkhoa/ScreamJam23",
@@ -706,6 +824,7 @@
     ]
   },
   {
+    "name": "Candy Wrapper",
     "link": "https://hhoneysoftware.itch.io/candy",
     "all_links": [
       "https://github.com/HarmonyHoney/CandyWrapper",
@@ -714,6 +833,7 @@
     ]
   },
   {
+    "name": "LibreAim",
     "link": "https://antimundo.itch.io/libreaim",
     "all_links": [
       "https://github.com/Nokorpo/LibreAim/blob/main/discord.gg/u2Hm8sMagF",
@@ -722,54 +842,64 @@
     ]
   },
   {
+    "name": "Open Source Tetris",
     "link": "https://lordloss90.itch.io/open-tetris",
     "all_links": [
       "https://github.com/Lordloss90/OpenTetris"
     ]
   },
   {
+    "name": "Reflex Game",
     "link": "https://sugarvoid.itch.io/reflex-game",
     "all_links": [
       "https://github.com/sugarvoid/reflex-game"
     ]
   },
   {
+    "name": "Minesweeper",
     "link": "https://kape99.itch.io/minesweeper",
     "all_links": []
   },
   {
+    "name": "Herocore",
     "link": "https://slost.itch.io/herocore",
     "all_links": []
   },
   {
+    "name": "Catburglar",
     "link": "https://johngabrieluk.itch.io/catburglar",
     "all_links": []
   },
   {
+    "name": "Nico tuvo una buena vida",
     "link": "https://rothiotome.itch.io/nico-tuvo-una-buena-vida",
     "all_links": [
       "https://github.com/rothiotome/shortness-life"
     ]
   },
   {
+    "name": "Antigolf",
     "link": "https://morozig.itch.io/antigolf",
     "all_links": [
       "https://github.com/chusikins/antigolf"
     ]
   },
   {
+    "name": "Get That Bit",
     "link": "https://danwaywell.itch.io/get-that-bit",
     "all_links": [
       "https://github.com/DanWaywell/get_that_bit"
     ]
   },
   {
+    "name": "KINDERGARTEN MASSAKER",
     "link": "https://domestique-baston.itch.io/kindergarten-massaker",
     "all_links": [
       "https://github.com/DomestiqueBaston/KINDERGARTEN_MASSAKER"
     ]
   },
   {
+    "name": "Cat Fish",
     "link": "https://d10sfan.itch.io/cat-fish",
     "all_links": [
       "https://github.com/d10sfan/duel-defense",
@@ -777,6 +907,7 @@
     ]
   },
   {
+    "name": "Dungeon Generator Sketchpad",
     "link": "https://tresilloeffect.itch.io/dungeon-generator-scratchpad",
     "all_links": [
       "https://github.com/Tresillo/DungeonGenerator",
@@ -784,26 +915,31 @@
     ]
   },
   {
+    "name": "Existengotchi",
     "link": "https://rothiotome.itch.io/existengotchi",
     "all_links": [
       "https://github.com/rothiotome/malagajam17-2024"
     ]
   },
   {
+    "name": "Big Bad Dragon's Rampage",
     "link": "https://emseydev.itch.io/big-bad-dragons-rampage",
     "all_links": []
   },
   {
+    "name": "Codfish",
     "link": "https://oneshotofficial.itch.io/codfish",
     "all_links": []
   },
   {
+    "name": "Pixel Adventure Godot 4 - Open Source",
     "link": "https://gemakesgames.itch.io/pixel-adventure-godot-4-live",
     "all_links": [
       "https://github.com/GeMakesGames/PixelAdventureGodot"
     ]
   },
   {
+    "name": "GLADIATE!",
     "link": "https://teicsoft.itch.io/gladiate",
     "all_links": [
       "https://github.com/Teicsoft/GLADIATE",
@@ -812,6 +948,7 @@
     ]
   },
   {
+    "name": "2d platformer godot",
     "link": "https://deanlemans.itch.io/2d-platformer-godot",
     "all_links": [
       "https://github.com/DeanLemans/2d-platformer-godot",
@@ -819,6 +956,7 @@
     ]
   },
   {
+    "name": "Saturday Night Special",
     "link": "https://cuber1.itch.io/saturday-night-special",
     "all_links": [
       "https://github.com/Cuber01/saturday-night-special",
@@ -826,10 +964,12 @@
     ]
   },
   {
+    "name": "Overpowered[BROKEN]",
     "link": "https://itsmedevroland.itch.io/overpowered",
     "all_links": []
   },
   {
+    "name": "A Dark Forest",
     "link": "https://tinytakinteller.itch.io/the-best-game-ever",
     "all_links": [
       "https://github.com/TinyTakinTeller/GodotProjectZero",
@@ -847,42 +987,50 @@
     ]
   },
   {
+    "name": "Drummable",
     "link": "https://arnfarkas.itch.io/drummable",
     "all_links": []
   },
   {
+    "name": "Tmoeg arena [multiplayer fps]",
     "link": "https://tmoeg.itch.io/tmoeg-arena",
     "all_links": []
   },
   {
+    "name": "Trom",
     "link": "https://abendiix.itch.io/trom",
     "all_links": [
       "https://github.com/Abendiix/trom"
     ]
   },
   {
+    "name": "Godot Breakout",
     "link": "https://spiros-angelaki.itch.io/godot-breakout",
     "all_links": [
       "https://github.com/spiro-angelakis/Godot_Breakout_Game"
     ]
   },
   {
+    "name": "Hot Pot Panic",
     "link": "https://figytuna.itch.io/hot-pot-panic",
     "all_links": [
       "https://github.com/FigyTuna/HotPotPanic"
     ]
   },
   {
+    "name": "Aqua Journey",
     "link": "https://yeldham.itch.io/aqua-journey",
     "all_links": []
   },
   {
+    "name": "Catch The Golden Bugs",
     "link": "https://kayuusha.itch.io/catch-the-golden-bugs",
     "all_links": [
       "https://github.com/Kayuusha/catch-the-golden-bugs"
     ]
   },
   {
+    "name": "AengusCraft",
     "link": "https://teenage-code.itch.io/aenguscraft",
     "all_links": [
       "https://github.com/aengus126/Aengus-Craft",
@@ -890,32 +1038,38 @@
     ]
   },
   {
+    "name": "Blox",
     "link": "https://russmatney.itch.io/blox",
     "all_links": [
       "https://github.com/russmatney/blox"
     ]
   },
   {
+    "name": "Hunt the Wumpus: Godot Edition",
     "link": "https://jayb33.itch.io/hunt-the-wumpus",
     "all_links": [
       "https://github.com/Jayb333/hunt_the_wumpus"
     ]
   },
   {
+    "name": "Space Generator",
     "link": "https://not-jam.itch.io/space-generator",
     "all_links": [
       "https://github.com/NotJamGames/SpaceGenerator"
     ]
   },
   {
+    "name": "Hurry Curry!",
     "link": "https://metamuffin1.itch.io/hurrycurry",
     "all_links": []
   },
   {
+    "name": "CC0 - GODOT FPS TEMPLATE",
     "link": "https://zxelt.itch.io/cc0-godot-fps-template",
     "all_links": []
   },
   {
+    "name": "In Plain Sight",
     "link": "https://nnda.itch.io/in-plain-sight",
     "all_links": [
       "https://github.com/nndda/o2a2-2024",
@@ -930,6 +1084,7 @@
     ]
   },
   {
+    "name": "A Concoction for Creeps",
     "link": "https://jaydensippy.itch.io/a-concoction-for-creeps",
     "all_links": [
       "https://github.com/jaydensipe/A-Concoction-For-Creeps",
@@ -937,18 +1092,21 @@
     ]
   },
   {
+    "name": "👨‍🚀🚀🪐 XOrbit",
     "link": "https://zafteer.itch.io/djam8-orbital-decay",
     "all_links": [
       "https://github.com/zaftnotameni/djam8"
     ]
   },
   {
+    "name": "Carrion",
     "link": "https://josepvalls.itch.io/carrion",
     "all_links": [
       "https://github.com/josepvalls/godot35-santacruz-jam"
     ]
   },
   {
+    "name": "Meteorite",
     "link": "https://bauxite.itch.io/meteorite",
     "all_links": [
       "https://github.com/Bauxitedev/meteorite",
@@ -957,30 +1115,36 @@
     ]
   },
   {
+    "name": "The Invisible Box Challenge",
     "link": "https://to1ex.itch.io/the-invisible-box-challenge",
     "all_links": [
       "https://github.com/SimplyTolex/the-invisible-box-challenge"
     ]
   },
   {
+    "name": "Roguelike Elemental",
     "link": "https://julio-igreja.itch.io/roguelike-elemental",
     "all_links": [
       "https://github.com/JulioEvencio/roguelike-elemental"
     ]
   },
   {
+    "name": "Driver",
     "link": "https://arnfarkas.itch.io/driver",
     "all_links": []
   },
   {
+    "name": "Dodge and Deflect (Open source)",
     "link": "https://buzzbuzz20xx.itch.io/dodge-and-deflect",
     "all_links": []
   },
   {
+    "name": "Super Tux Party",
     "link": "https://anti.itch.io/super-tux-party",
     "all_links": []
   },
   {
+    "name": "MarioTool",
     "link": "https://xpoxy.itch.io/mariotool",
     "all_links": [
       "https://github.com/spigbop/MarioTool#roadmap",
@@ -990,12 +1154,14 @@
     ]
   },
   {
+    "name": "Space Game: Delivery Management",
     "link": "https://kedadev.itch.io/sg-delivery-management",
     "all_links": [
       "https://github.com/kedalovo/SG_Delivery_Manager"
     ]
   },
   {
+    "name": "Blocks in bits",
     "link": "https://tfcb93.itch.io/blocks-in-bits",
     "all_links": [
       "https://github.com/tfcb93/block-in-bits",
@@ -1004,12 +1170,14 @@
     ]
   },
   {
+    "name": "Spooky escape",
     "link": "https://buendiagames.itch.io/spooky-escape",
     "all_links": [
       "https://github.com/BuendiaGames/SpookyComecocos/tree/master"
     ]
   },
   {
+    "name": "Paws & Plates",
     "link": "https://nnda.itch.io/paws-n-plates",
     "all_links": [
       "https://github.com/gdquest-demos/godot-shaders",
@@ -1017,24 +1185,28 @@
     ]
   },
   {
+    "name": "The Strand Academy Secrets",
     "link": "https://josepvalls.itch.io/secrets",
     "all_links": [
       "https://github.com/josepvalls/secrets"
     ]
   },
   {
+    "name": "Steal This Game",
     "link": "https://maaack.itch.io/steal-this-game",
     "all_links": [
       "https://github.com/Maaack/steal-this-game"
     ]
   },
   {
+    "name": "Haunt or be Haunted",
     "link": "https://astropippin.itch.io/haunt-or-be-haunted",
     "all_links": [
       "https://github.com/riceisnice/haunt-or-be-haunted"
     ]
   },
   {
+    "name": "Pinball But It's Only Multiball",
     "link": "https://figytuna.itch.io/pinball-but-its-only-multiball",
     "all_links": [
       "https://github.com/FigyTuna/Multiball",
@@ -1042,10 +1214,12 @@
     ]
   },
   {
+    "name": "Nuclear Briefcase",
     "link": "https://lanyard.itch.io/nuclear-briefcase",
     "all_links": []
   },
   {
+    "name": "Diver Down",
     "link": "https://escada-games.itch.io/diver-down",
     "all_links": [
       "https://github.com/Escada-Games/diver_down",
@@ -1053,14 +1227,17 @@
     ]
   },
   {
+    "name": "Finding the Lamb",
     "link": "https://johngabrieluk.itch.io/finding-the-lamb",
     "all_links": []
   },
   {
+    "name": "Kugelblitz",
     "link": "https://johngabrieluk.itch.io/kugelblitz",
     "all_links": []
   },
   {
+    "name": "balldrop.",
     "link": "https://bauxite.itch.io/balldrop",
     "all_links": [
       "https://github.com/Bauxitedev/balldrop",
@@ -1068,28 +1245,34 @@
     ]
   },
   {
+    "name": "The Last Garden",
     "link": "https://pattedecanard.itch.io/the-last-garden",
     "all_links": []
   },
   {
+    "name": "Infinity Defect",
     "link": "https://johngabrieluk.itch.io/infinity-defect",
     "all_links": []
   },
   {
+    "name": "Hijinx: Enhanced Edition",
     "link": "https://johngabrieluk.itch.io/hijinx-enhanced-edition",
     "all_links": []
   },
   {
+    "name": "We're Getting There",
     "link": "https://nblena.itch.io/were-getting-there",
     "all_links": []
   },
   {
+    "name": "Grow",
     "link": "https://figytuna.itch.io/grow",
     "all_links": [
       "https://github.com/FigyTuna/grow/tree/master"
     ]
   },
   {
+    "name": "Hunt for the Shadow Rider",
     "link": "https://bluestreak0.itch.io/hunt-for-the-shadow-rider",
     "all_links": [
       "https://github.com/alexhuntley/Hunt-for-the-Shadow-Rider",
@@ -1097,36 +1280,43 @@
     ]
   },
   {
+    "name": "There Is Nothing Here",
     "link": "https://cenullum.itch.io/there-is-nothing-here",
     "all_links": []
   },
   {
+    "name": "My Shadow's Keeper",
     "link": "https://inglo-games.itch.io/my-shadows-keeper",
     "all_links": [
       "https://github.com/Inglo-Games/MyShadowsKeeper"
     ]
   },
   {
+    "name": "Boatconf",
     "link": "https://remram44.itch.io/boatconf",
     "all_links": []
   },
   {
+    "name": "SQLiteDetective",
     "link": "https://gaidamakua.itch.io/sqlitedetective",
     "all_links": [
       "https://github.com/GaidamakUA/SQLiteDetective"
     ]
   },
   {
+    "name": "Lavender Hollow (Demo!)",
     "link": "https://shadybug.itch.io/lavender-hollow",
     "all_links": [
       "https://github.com/shadybug/lavender-hollow"
     ]
   },
   {
+    "name": "Inverted Space",
     "link": "https://pixelzenstudios.itch.io/inverted-space",
     "all_links": []
   },
   {
+    "name": "Drag and Clips",
     "link": "https://le-professeur-stagiaire.itch.io/drag-and-clips",
     "all_links": [
       "https://github.com/LeProfesseurStagiaire/new_DnD_phone",
@@ -1134,10 +1324,12 @@
     ]
   },
   {
+    "name": "Pinch Giving",
     "link": "https://mvpggez.itch.io/pinch-giving",
     "all_links": []
   },
   {
+    "name": "Color Escape: VR Coop",
     "link": "https://doublesept.itch.io/escape",
     "all_links": [
       "https://github.com/DoubleSept/eftv-demo",
@@ -1145,6 +1337,7 @@
     ]
   },
   {
+    "name": "Rail&Write - GWJ17",
     "link": "https://nb-inactive.itch.io/rail-n-write",
     "all_links": [
       "https://github.com/NimbleBeasts/GodotWildJam17/wiki",
@@ -1152,16 +1345,19 @@
     ]
   },
   {
+    "name": "Ball'n'Tower",
     "link": "https://juppi.itch.io/ballntower",
     "all_links": [
       "https://github.com/JupiterRider/ballntower_cs"
     ]
   },
   {
+    "name": "Untold",
     "link": "https://johngabrieluk.itch.io/untold",
     "all_links": []
   },
   {
+    "name": "Libre TrainSim - Free Train Simulator for everyone",
     "link": "https://jean28518.itch.io/libre-train-sim",
     "all_links": [
       "https://github.com/Libre-TrainSim/Libre-TrainSim/projects",
@@ -1172,10 +1368,12 @@
     ]
   },
   {
+    "name": "Librerama",
     "link": "https://yeldham.itch.io/librerama",
     "all_links": []
   },
   {
+    "name": "Tiny Chopper Raceway",
     "link": "https://cheeseness.itch.io/tiny-chopper-raceway",
     "all_links": [
       "https://github.com/Cheeseness/tiny-chopper-raceway",
@@ -1183,6 +1381,7 @@
     ]
   },
   {
+    "name": "Pigeon Ascent",
     "link": "https://escada-games.itch.io/pigeon-ascent",
     "all_links": [
       "https://github.com/Keyband/pigeonAscent/tree/master",
@@ -1190,30 +1389,36 @@
     ]
   },
   {
+    "name": "FuzzballMcFuzzFace",
     "link": "https://tackertacker.itch.io/fuzzballmcfuzzface",
     "all_links": []
   },
   {
+    "name": "Student Quest",
     "link": "https://pixeltrain.itch.io/student-quest",
     "all_links": [
       "https://github.com/ordinary-dev/student-quest"
     ]
   },
   {
+    "name": "Connect the dots",
     "link": "https://lambdaloop.itch.io/connect-the-dots",
     "all_links": [
       "https://github.com/lambdaloop/connect-the-dots"
     ]
   },
   {
+    "name": "Supply Chain",
     "link": "https://cheeseness.itch.io/supply-chain",
     "all_links": []
   },
   {
+    "name": "The March of the White King",
     "link": "https://banjotui.itch.io/march-of-the-white-king",
     "all_links": []
   },
   {
+    "name": "FarmNer",
     "link": "https://jaydensippy.itch.io/farmner",
     "all_links": [
       "https://github.com/jaydensipe/FarmNer-Revival",
@@ -1221,10 +1426,12 @@
     ]
   },
   {
+    "name": "Humans: Milestone",
     "link": "https://biorobot.itch.io/humans-milestone",
     "all_links": []
   },
   {
+    "name": "Roguelike",
     "link": "https://berubejd.itch.io/roguelike",
     "all_links": [
       "https://camo.githubusercontent.com/89df07fbbbaef12aafc54be10ec058397b3c8a04/68747470733a2f2f692e696d6775722e636f6d2f7367734f3337412e706e67",
@@ -1244,14 +1451,17 @@
     ]
   },
   {
+    "name": "Fire & Fondness 2",
     "link": "https://johngabrieluk.itch.io/fire-and-fondness-2",
     "all_links": []
   },
   {
+    "name": "Cosmic S.N.A.F.U.",
     "link": "https://johngabrieluk.itch.io/cosmic-snafu",
     "all_links": []
   },
   {
+    "name": "Death Comes for Us All",
     "link": "https://berubejd.itch.io/death-comes-for-us-all",
     "all_links": [
       "https://github.com/godotengine",
@@ -1259,10 +1469,12 @@
     ]
   },
   {
+    "name": "Only",
     "link": "https://johngabrieluk.itch.io/only",
     "all_links": []
   },
   {
+    "name": "Margot-Béatrice Adventure",
     "link": "https://levrault.itch.io/margot-beatrice-adventure",
     "all_links": [
       "https://github.com/Levrault/LE-dialogue-editor",
@@ -1272,14 +1484,17 @@
     ]
   },
   {
+    "name": "Tiny Tactics",
     "link": "https://team-potato.itch.io/tiny-tactics",
     "all_links": []
   },
   {
+    "name": "Molag's Curse",
     "link": "https://lmedinam.itch.io/molags-curse",
     "all_links": []
   },
   {
+    "name": "teralite",
     "link": "https://nongmotrash.itch.io/teralite",
     "all_links": [
       "https://github.com/NonGMOTrash/teralite",
@@ -1287,20 +1502,24 @@
     ]
   },
   {
+    "name": "Charge Kid",
     "link": "https://eldskald.itch.io/charge-kid",
     "all_links": []
   },
   {
+    "name": "Pocket Tactics",
     "link": "https://team-potato.itch.io/pocket-tactics",
     "all_links": []
   },
   {
+    "name": "Candy Smuggler",
     "link": "https://tomeyro.itch.io/candy-smuggler",
     "all_links": [
       "https://github.com/tomeyro/CandySmuggler"
     ]
   },
   {
+    "name": "YKnytt",
     "link": "https://youkaicountry.itch.io/yknytt",
     "all_links": [
       "https://github.com/youkaicountry/yknytt",
@@ -1308,6 +1527,7 @@
     ]
   },
   {
+    "name": "Super Box Bot's Package Push",
     "link": "https://honey-pony.itch.io/super-box-bots-package-push",
     "all_links": [
       "https://github.com/HoneyPony/package-push",
@@ -1315,22 +1535,26 @@
     ]
   },
   {
+    "name": "PixelOrb",
     "link": "https://sandebru.itch.io/pixelorb",
     "all_links": [
       "https://github.com/alex-karev/PixelOrb"
     ]
   },
   {
+    "name": "Titan Tactics",
     "link": "https://team-potato.itch.io/titan-tactics",
     "all_links": []
   },
   {
+    "name": "Screen Toybox",
     "link": "https://kaizarnike.itch.io/screen-toybox",
     "all_links": [
       "https://github.com/KaizNike/screen-toybox"
     ]
   },
   {
+    "name": "S Force",
     "link": "https://monohonplaya.itch.io/s-force",
     "all_links": [
       "https://github.com/monohonplaya/S-FORCE",
@@ -1338,22 +1562,26 @@
     ]
   },
   {
+    "name": "Jurassic Ark",
     "link": "https://headmade.itch.io/jurassic-ark",
     "all_links": [
       "https://github.com/headmadegames/LudumDare36"
     ]
   },
   {
+    "name": "Comeback",
     "link": "https://madamlaunch.itch.io/comeback",
     "all_links": [
       "https://github.com/MadamLaunch/comeback"
     ]
   },
   {
+    "name": "Hijinx: A Christmas Caper",
     "link": "https://johngabrieluk.itch.io/hijinx-a-christmas-caper",
     "all_links": []
   },
   {
+    "name": "Spaccanavi",
     "link": "https://luxel.itch.io/spaccanavi",
     "all_links": [
       "https://github.com/lucaleonardi/spaccanavi",
@@ -1361,56 +1589,67 @@
     ]
   },
   {
+    "name": "Operation Snagov",
     "link": "https://charliegray.itch.io/operation-snagov",
     "all_links": [
       "https://github.com/TLochow/Operation-Snagov"
     ]
   },
   {
+    "name": "EggPong",
     "link": "https://coldcalzone.itch.io/eggpong",
     "all_links": []
   },
   {
+    "name": "A NSMB-bomb-minigame remake (sourcecode, Godot)",
     "link": "https://vvamavv.itch.io/new-super-mario-bros-bomb-godot-remake",
     "all_links": []
   },
   {
+    "name": "OpenTanks",
     "link": "https://gamedevelop76.itch.io/guerra-de-tanques",
     "all_links": []
   },
   {
+    "name": "Cave",
     "link": "https://jrberyllium.itch.io/cave",
     "all_links": [
       "https://github.com/jasonrobwebster/Cave"
     ]
   },
   {
+    "name": "Jump3Match",
     "link": "https://escada-games.itch.io/jump3match",
     "all_links": [
       "https://github.com/Escada-Games/j3m"
     ]
   },
   {
+    "name": "Easter Bunny on speed",
     "link": "https://jonasmv.itch.io/easter-bunny-on-speed",
     "all_links": []
   },
   {
+    "name": "Totally accurate Attack on Titan simulator",
     "link": "https://pedrotrschneider.itch.io/totally-accurate-attack-on-titan-simulator",
     "all_links": [
       "https://github.com/pedrotrschneider/totaly-accurate-attack-on-titan-simulator/tree/develop"
     ]
   },
   {
+    "name": "Planet Waves",
     "link": "https://escada-games.itch.io/planet-waves",
     "all_links": [
       "https://github.com/Escada-Games/planet-waves"
     ]
   },
   {
+    "name": "The Three Musketeers",
     "link": "https://ahmed-mo2nis.itch.io/the-three-musketeers",
     "all_links": []
   },
   {
+    "name": "Catch the dog",
     "link": "https://mxtapps.itch.io/catch-the-dog",
     "all_links": []
   }
