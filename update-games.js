@@ -8,6 +8,7 @@ const readline = require('readline')
 const request = require('request')
 const sortByKey = require('./utils/sortByKey')
 const writeJSON = require('./utils/writeJSON')
+const _ = require("lodash");
 
 const http = require('http')
 const https = require('https')
@@ -201,7 +202,7 @@ function getAllGames () {
               let arr1 = readJSON('.tmp/' + scrapeURLS[0] + '.json')
               let arr2 = readJSON('.tmp/' + scrapeURLS[1] + '.json')
 
-              arr1 = arr1.filter(item1 => arr2.some(item2 => item2.id === item1.id))
+              const mergedArray = _.uniqBy([...arr1, ...arr2], "id")
 
               let foo = new Map()
               for (const key of arr1) {

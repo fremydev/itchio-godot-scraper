@@ -16,20 +16,28 @@ fs.readFile('all.json', 'utf8', async (err, data) => {
       const link = item.link;
       console.log(`Fetching links from: ${link}`);
 
-      const response = await axios.get(link);
+      const response = await axios({
+        method: 'get',
+        url: link,
+        timeout: 20000,
+      });
       const $ = cheerio.load(response.data);
 
       let game = {}
-      game.name = item.title
-      game.link = link
       game.all_links = []
       $('a').each((index, element) => {
         const href = $(element).attr('href');
-        if (href && href.includes('github')) {
+        if (href && href.includes('github') && !href.includes('tag-github')) {
           game.all_links.push(href);
         }
       });
-      if (game.length) allHrefs.push(game);
+      if (game.all_links.length > 0){
+        game.name = item.title
+        game.link = link
+        game.number_comments = $('.community_post_list_widget').length
+        game.metadata = item.tbody
+        allHrefs.push(game);
+      }
     }
 
     const outputFile = 'output_links.json';
